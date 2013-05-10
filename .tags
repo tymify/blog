@@ -1,0 +1,25 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ADD_THIS_BUTTONS	/Users/rachid/Dev/tymify/tymify-blog/conf.py	/^ADD_THIS_BUTTONS = False$/;"	v	language:Python
+BLOG_AUTHOR	/Users/rachid/Dev/tymify/tymify-blog/conf.py	/^BLOG_AUTHOR = "Your Name"$/;"	v	language:Python
+BLOG_DESCRIPTION	/Users/rachid/Dev/tymify/tymify-blog/conf.py	/^BLOG_DESCRIPTION = "This is a demo site for Nikola."$/;"	v	language:Python
+BLOG_EMAIL	/Users/rachid/Dev/tymify/tymify-blog/conf.py	/^BLOG_EMAIL = "joe@demo.site"$/;"	v	language:Python
+BLOG_TITLE	/Users/rachid/Dev/tymify/tymify-blog/conf.py	/^BLOG_TITLE = "Demo Site"$/;"	v	language:Python
+CONTENT_FOOTER	/Users/rachid/Dev/tymify/tymify-blog/conf.py	/^CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,$/;"	v	language:Python
+DEFAULT_LANG	/Users/rachid/Dev/tymify/tymify-blog/conf.py	/^DEFAULT_LANG = "en"$/;"	v	language:Python
+DISQUS_FORUM	/Users/rachid/Dev/tymify/tymify-blog/conf.py	/^DISQUS_FORUM = None$/;"	v	language:Python
+GLOBAL_CONTEXT	/Users/rachid/Dev/tymify/tymify-blog/conf.py	/^GLOBAL_CONTEXT = {}$/;"	v	language:Python
+SIDEBAR_LINKS	/Users/rachid/Dev/tymify/tymify-blog/conf.py	/^SIDEBAR_LINKS = {$/;"	v	language:Python
+SITE_URL	/Users/rachid/Dev/tymify/tymify-blog/conf.py	/^SITE_URL = "http:\/\/nikola.ralsina.com.ar"$/;"	v	language:Python
+THEME	/Users/rachid/Dev/tymify/tymify-blog/conf.py	/^THEME = 'tymify'$/;"	v	language:Python
+TRANSLATIONS	/Users/rachid/Dev/tymify/tymify-blog/conf.py	/^TRANSLATIONS = {$/;"	v	language:Python
+author	/Users/rachid/Dev/tymify/tymify-blog/conf.py	/^                                       author=BLOG_AUTHOR,$/;"	v	language:Python
+date	/Users/rachid/Dev/tymify/tymify-blog/conf.py	/^                                       date=time.gmtime().tm_year)$/;"	v	language:Python
+post_compilers	/Users/rachid/Dev/tymify/tymify-blog/conf.py	/^post_compilers = {$/;"	v	language:Python
+post_pages	/Users/rachid/Dev/tymify/tymify-blog/conf.py	/^post_pages = ($/;"	v	language:Python
+time	/Users/rachid/Dev/tymify/tymify-blog/conf.py	/^import time$/;"	i	language:Python
+unicode_literals	/Users/rachid/Dev/tymify/tymify-blog/conf.py	/^from __future__ import unicode_literals$/;"	i	language:Python
